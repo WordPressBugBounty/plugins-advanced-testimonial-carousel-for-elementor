@@ -3,7 +3,7 @@
         'name' => 'atcfe/advanced-testimonial-carousel-for-elementor',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '183ea9355a5deb28cc46aee19612d6b86e56a5f9',
+        'reference' => 'f234075b4e670593f9adbe782f8690cb6fdc48eb',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'atcfe/advanced-testimonial-carousel-for-elementor' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '183ea9355a5deb28cc46aee19612d6b86e56a5f9',
+            'reference' => 'f234075b4e670593f9adbe782f8690cb6fdc48eb',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
